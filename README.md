@@ -15,7 +15,7 @@ Los resultados obtenidos del modelo entrenado son los siguientes:
 Segun los resultados obtenido hasta la fecha (30/11/2024), la Loss nos dice que el error del modelo al hacer predicciones es moderada y en el caso del Accuracy nos dice que el modelo esta clasicando bien en la mayoria de casos.
 Veamos la ejecucion del programa para probar el modelo creado:
 #### Reconocimiento de una persona que existe en el dataset
-![imgGuidoCNN](https://github.com/user-attachments/assets/83d4716e-5e38-451a-8f15-b5bf4b1aa807)
+<img width="480" alt="imgGuidoCNN" src="https://github.com/user-attachments/assets/83d4716e-5e38-451a-8f15-b5bf4b1aa807">
 Vemos que tenemos que la persona tiene un 0.99958 de probabilidad de que sea 'guido', vemos que lo identifica bien.
 #### Persona no identificada, desconocida
 <img width="480" alt="imgDesconocidoCNN" src="https://github.com/user-attachments/assets/ec57c83e-b690-4dff-bbff-94594823616d">
