@@ -25,4 +25,11 @@ Vemos que tenemos que la persona tiene un 0.99958 de probabilidad de que sea 'gu
   <img src="https://i.postimg.cc/SsH9cDjN/aronImg.png" alt="aronImg" width="450">
 </a>
 
-Vemos que no reconoce a la persona ya que la probabilidad es <0.87
+Vemos que no reconoce a la persona ya que la probabilidad es <0.87.
+
+#### Para 2 personas
+<a href="https://postimg.cc/xXhXy1fF">
+  <img src="https://i.postimg.cc/0Qzm6LkB/guido-Aron-Img.png" alt="guido-Aron-Img" width="450">
+</a>
+
+Vemos que identfica de forma correcta a las 2 personas.
