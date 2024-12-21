@@ -16,13 +16,13 @@ Segun los resultados obtenido hasta la fecha (20/12/2024), la Loss nos dice que 
 Veamos la ejecucion del programa para probar el modelo creado:
 #### Reconocimiento de una persona que existe en el dataset
 <a href="https://postimg.cc/xXhXy1fF">
-  <img src="https://i.postimg.cc/3wJ2hkP7/guidoImg.jpg" alt="guidoImg" width="300">
+  <img src="https://i.postimg.cc/3wJ2hkP7/guidoImg.jpg" alt="guidoImg" width="450">
 </a>
 
 Vemos que tenemos que la persona tiene un 0.99958 de probabilidad de que sea 'guido', vemos que lo identifica bien.
 #### Persona no identificada, desconocida
 <a href="https://postimg.cc/xXhXy1fF">
-  <img src="https://i.postimg.cc/SsH9cDjN/aronImg.png" alt="aronImg" width="300">
+  <img src="https://i.postimg.cc/SsH9cDjN/aronImg.png" alt="aronImg" width="450">
 </a>
 
 Vemos que no reconoce a la persona ya que la probabilidad es <0.87
